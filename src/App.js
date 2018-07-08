@@ -89,7 +89,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">The Clicky Game</h1>
+          <h1 className="App-title">The Clicky Game!!</h1>
           <h2>Count: {this.state.count}</h2>
         </header>
         <CardContainer>
