@@ -1,73 +1,73 @@
 [
     {
         "name": "Calvin",
-        "image": "%PUBLIC_URL%/assets/Calvin.gif",
+        "image": "./assets/Calvin.gif",
         "saved": false,
         "id": 1
     },
     {
         "name": "Spaceman Spiff",
-        "image": "%PUBLIC_URL%/assets/Spaceman_Spiff.png",
+        "image": "./assets/Spaceman_Spiff.png",
         "saved": false,
         "id": 2
     },
     {
         "name": "Stupendous Man",
-        "image": "%PUBLIC_URL%/assets/Stupendous_Man.png",
+        "image": "./assets/Stupendous_Man.png",
         "saved": false,
         "id": 3
     },
     {
         "name": "Live Hobbes",
-        "image": "%PUBLIC_URL%/assets/Hobbes_live.png",
+        "image": "./assets/Hobbes_live.png",
         "saved": false,
         "id": 4
     },
     {
         "name": "Stuffed Hobbes",
-        "image": "%PUBLIC_URL%/assets/hobbes_stuffed.jpg",
+        "image": "./assets/hobbes_stuffed.jpg",
         "saved": false,
         "id": 5
     },
     {
         "name": "Susie",
-        "image": "%PUBLIC_URL%/assets/Susie_Derkins.png",
+        "image": "./assets/Susie_Derkins.png",
         "saved": false,
         "id": 6
     },
     {
         "name": "Rosalyn",
-        "image": "%PUBLIC_URL%/assets/rosalyn.png",
+        "image": "./assets/rosalyn.png",
         "saved": false,
         "id": 7
     },
     {
         "name": "Miss Wormwood",
-        "image": "%PUBLIC_URL%/assets/Miss_Wormwood.png",
+        "image": "./assets/Miss_Wormwood.png",
         "saved": false,
         "id": 8
     },
     {
         "name": "Moe",
-        "image": "%PUBLIC_URL%/assets/Moe.png",
+        "image": "./assets/Moe.png",
         "saved": false,
         "id": 9
     },
     {
         "name": "Parents",
-        "image": "%PUBLIC_URL%/assets/Calvin_Parents.png",
+        "image": "./assets/Calvin_Parents.png",
         "saved": false,
         "id": 10
     },
     {
         "name": "Mom",
-        "image": "%PUBLIC_URL%/assets/Mom.gif",
+        "image": "./assets/Mom.gif",
         "saved": false,
         "id": 11
     },
     {
         "name": "Dad",
-        "image": "%PUBLIC_URL%/assets/Dad.jpg",
+        "image": "./assets/Dad.jpg",
         "saved": false,
         "id": 12
     }
